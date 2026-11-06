@@ -1,0 +1,5 @@
+# Dev Flow 导引
+
+需要开启轮次、按阶段推进或恢复工作时，读取 [总调度 Skill](skills/dev-flow/SKILL.md)，根据当前意图进入对应阶段。也可以直接读取 `skills/<skill-name>/SKILL.md`。
+
+项目产物的命名、轮次和批次状态以 [共享契约](skills/dev-flow/references/workflow.md) 为准。设计阶段显式参考前序产物。开发阶段由 Agent 自主选择需要的资料。
